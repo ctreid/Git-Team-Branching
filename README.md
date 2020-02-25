@@ -1,4 +1,8 @@
 # Git-Team-Branching
 
-"Second commit -Camryn"
+"First commit -Camryn"
+
+"Second commit -Lauren L"
+
+"Third commit -Jason Bell"
 
