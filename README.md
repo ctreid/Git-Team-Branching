@@ -4,6 +4,8 @@
 
 "Second commit -Lauren L"
 
-"Third commit -Jason Bell"
+"First Commit -Jason Bell"
 
 "Second commit -Camryn"
+
+"Second Commit -Jason Bell"
